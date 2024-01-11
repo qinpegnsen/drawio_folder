@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T07:43:37.562Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.18" etag="CQ2ugKKnlsgasq8i2p6W" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T07:57:41.754Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="dnyRWMALxGGHAOzzKUz-" version="22.1.18" type="github">
   <diagram name="第 1 页" id="tCEN-EMykmEuA1S0QrHA">
-    <mxGraphModel>
+    <mxGraphModel dx="1168" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="90NsGv2DsGGxObtIHxqt-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="150" width="160" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="90NsGv2DsGGxObtIHxqt-5" value="家庭" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="90NsGv2DsGGxObtIHxqt-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="90NsGv2DsGGxObtIHxqt-6" target="90NsGv2DsGGxObtIHxqt-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="90NsGv2DsGGxObtIHxqt-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="90NsGv2DsGGxObtIHxqt-8" value="我的电脑&lt;br&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="90NsGv2DsGGxObtIHxqt-9" value="HTTP&lt;br&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="90NsGv2DsGGxObtIHxqt-10" value="浏览器" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="90NsGv2DsGGxObtIHxqt-11" value="网卡" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="90NsGv2DsGGxObtIHxqt-12" value="路由器" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="90NsGv2DsGGxObtIHxqt-13" value="TCP" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="90NsGv2DsGGxObtIHxqt-15" value="操作系统" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="90NsGv2DsGGxObtIHxqt-16" value="路由器" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="90NsGv2DsGGxObtIHxqt-17" value="机房" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
