@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T08:17:09.332Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="3VYHr8jPxc4hYfzGs9nu" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T08:24:13.624Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="v06vXEW69PKoDzP53GOd" version="22.1.18" type="github">
   <diagram name="第 1 页" id="tCEN-EMykmEuA1S0QrHA">
     <mxGraphModel dx="1168" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,20 +25,20 @@
         <mxCell id="his3Pki_2V8lXUBrsiuB-3" value="HTTP(报文，DNS找IP)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="240" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="his3Pki_2V8lXUBrsiuB-6" value="TCP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="127.5" y="270" width="65" height="20" as="geometry" />
+        <mxCell id="his3Pki_2V8lXUBrsiuB-6" value="TCP(端口，序号，状态）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="270" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="his3Pki_2V8lXUBrsiuB-7" value="IP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="127.5" y="300" width="65" height="20" as="geometry" />
+        <mxCell id="his3Pki_2V8lXUBrsiuB-7" value="IP(ip 远程定位)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="300" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="his3Pki_2V8lXUBrsiuB-8" value="网卡/无线网卡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="132.5" y="370" width="67.5" height="30" as="geometry" />
+        <mxCell id="his3Pki_2V8lXUBrsiuB-8" value="网卡/无线网卡(mac,arp)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="370" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="his3Pki_2V8lXUBrsiuB-9" value="交换机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="420" width="65" height="20" as="geometry" />
+        <mxCell id="his3Pki_2V8lXUBrsiuB-9" value="交换机(mac地址映射表)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="420" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="his3Pki_2V8lXUBrsiuB-10" value="路由器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="450" width="65" height="20" as="geometry" />
+        <mxCell id="his3Pki_2V8lXUBrsiuB-10" value="路由器(DHCP,更换下个路由的mac地址)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="450" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="his3Pki_2V8lXUBrsiuB-13" value="路由器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="590" width="65" height="20" as="geometry" />
