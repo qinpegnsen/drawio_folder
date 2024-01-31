@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T08:07:42.584Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="HMLqschXIDFUXnXAG3_0" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-31T08:10:24.638Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="8i3TVKHS2Fmk-esKzLps" version="23.0.0" type="github">
   <diagram name="第 1 页" id="1aJcFwqzYAkUmxzSCTrx">
     <mxGraphModel dx="1064" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,10 +8,10 @@
           <mxGeometry x="81" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gZ4YSPeWYWc7kVVEDk5t-2" value="谓语" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gZ4YSPeWYWc7kVVEDk5t-3" value="宾语" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gZ4YSPeWYWc7kVVEDk5t-21" value="修饰（位置不限）" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gZ4YSPeWYWc7kVVEDk5t-5" edge="1">
           <mxGeometry x="0.4364" y="10" relative="1" as="geometry">
@@ -19,22 +19,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gZ4YSPeWYWc7kVVEDk5t-22" value="修饰（位置不限）" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gZ4YSPeWYWc7kVVEDk5t-5" edge="1">
-          <mxGeometry x="0.4235" relative="1" as="geometry">
-            <mxPoint x="610" y="250" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gZ4YSPeWYWc7kVVEDk5t-5" value="补语（形容词性成分和名词性成分，如果修饰的名词等于这个词，那么就是补语）" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="70" width="260" height="80" as="geometry" />
+          <mxGeometry x="290" y="70" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gZ4YSPeWYWc7kVVEDk5t-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gZ4YSPeWYWc7kVVEDk5t-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="330" as="targetPoint" />
+            <mxPoint x="400" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gZ4YSPeWYWc7kVVEDk5t-6" value="状语（副词成分）" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="430" width="120" height="80" as="geometry" />
+          <mxGeometry x="340" y="430" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gZ4YSPeWYWc7kVVEDk5t-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gZ4YSPeWYWc7kVVEDk5t-7" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -44,13 +38,19 @@
         <mxCell id="gZ4YSPeWYWc7kVVEDk5t-7" value="定语（形容词性成分）" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="81" y="430" width="139" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gZ4YSPeWYWc7kVVEDk5t-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gZ4YSPeWYWc7kVVEDk5t-9" edge="1">
+        <mxCell id="gZ4YSPeWYWc7kVVEDk5t-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="gZ4YSPeWYWc7kVVEDk5t-24" edge="1" target="gZ4YSPeWYWc7kVVEDk5t-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="609.5" y="330" as="targetPoint" />
+            <mxPoint x="670" y="340" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ShptHBNSfnVuUHg-uOAL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gZ4YSPeWYWc7kVVEDk5t-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gZ4YSPeWYWc7kVVEDk5t-9" value="定语（形容词性成分）" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="430" width="139" height="70" as="geometry" />
+          <mxGeometry x="730" y="450" width="139" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gZ4YSPeWYWc7kVVEDk5t-12" value="修饰（紧跟名词）" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="370" width="98.5" height="30" as="geometry" />
@@ -59,13 +59,35 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gZ4YSPeWYWc7kVVEDk5t-18" value="修饰" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="350" y="360" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="gZ4YSPeWYWc7kVVEDk5t-24" value="修饰（紧跟名词）" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="560.25" y="370" width="98.5" height="30" as="geometry" />
+          <mxGeometry x="370" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ShptHBNSfnVuUHg-uOAL-1" value="宾语(如果是主谓双宾，那么可以用介词to 和 for 来改写)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="721" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="830" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ShptHBNSfnVuUHg-uOAL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.558;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gZ4YSPeWYWc7kVVEDk5t-5" target="ShptHBNSfnVuUHg-uOAL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ShptHBNSfnVuUHg-uOAL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gZ4YSPeWYWc7kVVEDk5t-5" target="gZ4YSPeWYWc7kVVEDk5t-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ShptHBNSfnVuUHg-uOAL-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gZ4YSPeWYWc7kVVEDk5t-9" target="gZ4YSPeWYWc7kVVEDk5t-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="340" as="targetPoint" />
+            <mxPoint x="730" y="485" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="670" y="485" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gZ4YSPeWYWc7kVVEDk5t-24" value="修饰（紧跟名词）" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="620.75" y="370" width="98.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ShptHBNSfnVuUHg-uOAL-8" value="修饰（紧跟名词）" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="851.5" y="380" width="98.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
